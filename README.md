@@ -32,13 +32,13 @@
 #### SuperPosition
 
   
-* [YOUTUBE](https://www.youtube.com/watch?v=hkmoZ8e5Qn0) - A nice animation video about the Quantum Superposition.
+* [A nice animation video about the Quantum Superposition.](https://www.youtube.com/watch?v=hkmoZ8e5Qn0) 
 
 
 #### SuperPosition specific for machine learning (Quantum Walks)
 
    
-* [YOUTUBE](https://www.youtube.com/watch?v=86QsYPxoBow) - A nice video about the Quantum Walks.
+* [A nice video about the Quantum Walks.](https://www.youtube.com/watch?v=86QsYPxoBow)
 
 
 #### Qubit
