@@ -159,7 +159,7 @@
 
 * [A beginner's guide to quantum computing](https://www.ted.com/talks/shohini_ghose_quantum_computing_explained_in_10_minutes#t-322340).
 
-* [What can Schrödinger's cat teach us about quantum mechanics](https://www.ted.com/talks/josh_samani_what_can_schrodinger_s_cat_teach_us_about_quantum_mechanics#t-323151)/
+* [What can Schrödinger's cat teach us about quantum mechanics](https://www.ted.com/talks/josh_samani_what_can_schrodinger_s_cat_teach_us_about_quantum_mechanics#t-323151).
 
 * [Schrödinger's cat: A thought experiment in quantum mechanics](https://www.ted.com/talks/chad_orzel_schrodinger_s_cat_a_thought_experiment_in_quantum_mechanics#t-263061).
 
