@@ -17,7 +17,7 @@
 * [Quantum transistor](https://www.youtube.com/watch?v=ZTxR2n2mvjc).          
 * [Quantum processor](https://www.youtube.com/watch?v=CMdHDHEuOUE).                                                  
 * [Quantum Registery QRAM](https://arxiv.org/pdf/0807.4994.pdf).
-* [Quantum tensors basics.(https://www.youtube.com/watch?v=xzG6c96PsLs).
+* [Quantum tensors basics](https://www.youtube.com/watch?v=xzG6c96PsLs).
 * [Tensors Network for quantum algorithms](https://www.youtube.com/watch?v=bD-CWgbsCeI&list=PLgKuh-lKre10UQnP7gBCFoKgq5KWIA7el).                      
 * [Quantum Kmeans on Images](https://pdfs.semanticscholar.org/6d77/54d33958b4a41d57ec99558eb28ae88f9884.pdf).
 * [Quantum Fuzzy theory](https://pdfs.semanticscholar.org/6d77/54d33958b4a41d57ec99558eb28ae88f9884.pdf).
