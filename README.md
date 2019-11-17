@@ -21,8 +21,8 @@
 
 ## Post-Quantum & Crypto
 
-### Articles
+### Whitepapers
 
 #### 2018
 
-* [Cryptography in a post-quantum world](https://www.accenture.com/us-en/insights/technology/quantum-cryptography)
+* [Cryptography in a post-quantum world](https://www.accenture.com/_acnmedia/PDF-87/Accenture-809668-Quantum-Cryptography-Whitepaper-v05.pdf#zoom=50).
