@@ -30,7 +30,10 @@
 ### Articles
 
 #### 2019
+
 * [NIST's PQC Standardization Process: Second Round Candidate Announcement](https://csrc.nist.gov/news/2019/pqc-standardization-process-2nd-round-candidates).
+* [Prototyping post-quantum and hybrid key exchange
+and authentication in TLS and SSH (from AWS and Microsoft fols)](https://openquantumsafe.org/papers/NISTPQC-CroPaqSte19.pdf).
 
 ### Whitepapers
 
