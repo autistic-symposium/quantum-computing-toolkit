@@ -3,31 +3,12 @@
                                                 
 ## Introductory Concepts
 
- 
-* [Atom structure](https://www.youtube.com/watch?v=g_IaVepNDT4).                               
-* [Basic atom structure](https://www.youtube.com/watch?v=fwXQjRBLwsQ) 
-* [Basic photon](https://www.youtube.com/watch?v=KKr91v7yLcM).               
-* [Electron Spin](https://www.youtube.com/watch?v=J3xLuZNKhlY).            
-* [Quantum States](https://www.youtube.com/watch?v=sICXOwOwS4E).
-* [Quantum Superposition](https://www.youtube.com/watch?v=hkmoZ8e5Qn0)
-* [Quantum Walks](https://www.youtube.com/watch?v=86QsYPxoBow).                                                   
-* [Quantum Bits](https://www.youtube.com/watch?v=zNzzGgr2mhk).                                                           
-* [Quantum Gates](https://www.youtube.com/watch?v=2Qsh_w2kq9Y).                                                         
-* [Quantum Diode](https://www.youtube.com/watch?v=doyK1olswX4).
-* [Quantum transistor](https://www.youtube.com/watch?v=ZTxR2n2mvjc).          
-* [Quantum processor](https://www.youtube.com/watch?v=CMdHDHEuOUE).                                                  
-* [Quantum Registery QRAM](https://arxiv.org/pdf/0807.4994.pdf).
-* [Quantum tensors basics](https://www.youtube.com/watch?v=xzG6c96PsLs).
-* [Tensors Network for quantum algorithms](https://www.youtube.com/watch?v=bD-CWgbsCeI&list=PLgKuh-lKre10UQnP7gBCFoKgq5KWIA7el).                      
-* [Quantum Kmeans on Images](https://pdfs.semanticscholar.org/6d77/54d33958b4a41d57ec99558eb28ae88f9884.pdf).
-* [Quantum Fuzzy theory](https://pdfs.semanticscholar.org/6d77/54d33958b4a41d57ec99558eb28ae88f9884.pdf).
-* [Quantum Support Vector Machine](https://arxiv.org/pdf/1307.0471.pdf) 
-* [Nice Application of QSVM](http://www.scirp.org/journal/PaperInformation.aspx?paperID=72542).                               
-* [Quantum Genetic Algorithm](https://arxiv.org/pdf/1202.2026.pdf)  
-* [Quantum Hidden Morkov Models](https://arxiv.org/pdf/1503.08760.pdf).                                                       
-* [Quantum state classification with Bayesian methods](https://arxiv.org/pdf/1204.1550.pdf).                                   * [Quantum Ant Colony Optimization](http://ac.els-cdn.com/S2212667812001359/1-s2.0-S2212667812001359-main.pdf?_tid=42e0cd66-2f4a-11e7-920f-00000aacb361&acdnat=1493738345_8f536599e404c7588811ddd49c484688). 
-* [Quantum Cellular Automata](https://arxiv.org/pdf/0808.0679.pdf).
-* [Quantum perceptrons](https://arxiv.org/pdf/quant-ph/0201144.pdf).  
+* [Lecture on Quantum Computation by David Deutsch](http://www.quiprocone.org/Protected/DD_lectures.htm).
+
+
+## Interesting Talks
+
+* [John Preskill on Quantum Computing](https://blog.ycombinator.com/john-preskill-on-quantum-computing/).
 
 
 ----
