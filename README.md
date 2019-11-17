@@ -1,4 +1,4 @@
-# Resources for Quantum Computing 
+# Curated Resources and Documentation
 
                                                 
 ## Beginner
@@ -21,8 +21,10 @@
 
 ## Post-Quantum & Crypto
 
-### Whitepapers
+#### 2019
+* [PQC Standardization Process: Second Round Candidate Announcement](https://csrc.nist.gov/news/2019/pqc-standardization-process-2nd-round-candidates).
 
 #### 2018
-
 * [Cryptography in a post-quantum world](https://www.accenture.com/_acnmedia/PDF-87/Accenture-809668-Quantum-Cryptography-Whitepaper-v05.pdf#zoom=50).
+
+
