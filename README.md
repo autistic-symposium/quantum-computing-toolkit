@@ -18,6 +18,7 @@
 ## Software
 
 * [Making Quantum Computing Open: Lessons from Open-Source Projects](https://arxiv.org/pdf/1902.00991.pdf).
+* [Open-source in Quantum Computing](https://arxiv.org/pdf/1812.09167.pdf).
 
 ### Cirq
 
