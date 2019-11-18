@@ -23,6 +23,11 @@
 * [Programming a quantum computer with Cirq](https://www.youtube.com/watch?v=16ZfkPRVf2w&feature=youtu.be).
 
 
+### s2n
+
+* [s2n : an implementation of the TLS/SSL protocols (with post-quantum hybrid options)](https://github.com/awslabs/s2n).
+
+
 ------
 
 ## Post-Quantum & Crypto
@@ -39,5 +44,7 @@ and authentication in TLS and SSH (from AWS and Microsoft folks)](https://openqu
 
 #### 2018
 * [Cryptography in a post-quantum world](https://www.accenture.com/_acnmedia/PDF-87/Accenture-809668-Quantum-Cryptography-Whitepaper-v05.pdf#zoom=50).
+
+
 
 
