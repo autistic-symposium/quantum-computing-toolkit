@@ -1,6 +1,6 @@
 # Curated Resources and Documentation
 
-## Beautiful Artciles
+## Beautiful Articles
 
 * [How quantum teleportation works](https://quantum.country/teleportation).
 
