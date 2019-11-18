@@ -1,7 +1,11 @@
 # Curated Resources and Documentation
 
+## Beautiful Artciles
+
+* [How quantum teleportation works](https://quantum.country/teleportation).
+
                                               
-## Lectures
+## Lectures & MOOCs
 
 * [Lecture on Quantum Computation by David Deutsch](http://www.quiprocone.org/Protected/DD_lectures.htm).
 
