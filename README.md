@@ -5,6 +5,7 @@
 
 #### 2019
 * [How quantum teleportation works](https://quantum.country/teleportation).
+* [Quantum computing for the very curious](https://quantum.country/qcvc).
 
                                               
 ## Lectures & MOOCs
