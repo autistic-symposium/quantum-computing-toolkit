@@ -9,6 +9,10 @@
 
 * [Lecture on Quantum Computation by David Deutsch](http://www.quiprocone.org/Protected/DD_lectures.htm).
 
+## Videos
+
+* [Google's Quantum supremacy explained](https://www.youtube.com/watch?v=gylmjTOUfCQ&feature=youtu.be).
+
 
 ## Talks
 
