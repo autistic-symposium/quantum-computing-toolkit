@@ -7,6 +7,10 @@
 * [How quantum teleportation works](https://quantum.country/teleportation).
 * [Quantum computing for the very curious](https://quantum.country/qcvc).
 
+#### 2017
+
+* [The Potential Impact of Quantum Computers on Society](https://arxiv.org/abs/1712.05380).
+
                                               
 ## Lectures & MOOCs
 
