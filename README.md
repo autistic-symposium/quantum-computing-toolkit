@@ -67,6 +67,14 @@
 
 * [When can Quantum Annealing win?](https://ai.googleblog.com/2015/12/when-can-quantum-annealing-win.html)
 
+
+----
+
+## Quantum Machine Learning
+
+* [Simulating Physics with Computers](https://www.dwavesys.com/sites/default/files/2018-04-04%20-%20Max%20Henderson%20-%20Quantum%20Machine%20Learning%20for%20Election%20Modeling.pdf).
+
+
 ------
 
 ## Post-Quantum & Crypto
