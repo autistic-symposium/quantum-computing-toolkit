@@ -60,12 +60,12 @@
 
 ----
 
-## Types of Quantum Computings
+## Types of Quantum Computers
 
 
 ### Quantum Annealing
 
-* [When can Quantum Annealing win?](https://ai.googleblog.com/2015/12/when-can-quantum-annealing-win.html).
+* [When can Quantum Annealing win?](https://ai.googleblog.com/2015/12/when-can-quantum-annealing-win.html)
 
 ------
 
