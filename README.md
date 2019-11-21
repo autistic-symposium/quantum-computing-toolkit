@@ -65,6 +65,8 @@
 
 ### Quantum Annealers 
 
+#### 2015
+
 * [When can Quantum Annealing win?](https://ai.googleblog.com/2015/12/when-can-quantum-annealing-win.html)
 
 
@@ -72,6 +74,9 @@
 
 ## Quantum Machine Learning
 
+#### 2018
+
+* [Reinforcement Learning using Quantum Boltzmann Machines on the D-Wave System](https://www.dwavesys.com/sites/default/files/QBM%20-1Qbit.pdf).
 * [Simulating Physics with Computers](https://www.dwavesys.com/sites/default/files/2018-04-04%20-%20Max%20Henderson%20-%20Quantum%20Machine%20Learning%20for%20Election%20Modeling.pdf).
 
 
