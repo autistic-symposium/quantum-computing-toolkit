@@ -67,6 +67,10 @@
 
 * [D-Wave 2000Q System](https://www.dwavesys.com/d-wave-two-system).
 
+#### 2019
+
+* [Volkswagen to Test Quantum Navigation App in Real Traffic](https://www.wsj.com/articles/volkswagen-to-test-quantum-navigation-app-in-real-traffic-11572553300).
+
 #### 2017
 
 * [Traffic flow optimization using a quantum annealer](https://arxiv.org/abs/1708.01625).
