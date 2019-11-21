@@ -65,6 +65,8 @@
 
 ### Quantum Annealers 
 
+* [D-Wave 2000Q System](https://www.dwavesys.com/d-wave-two-system).
+
 #### 2015
 
 * [When can Quantum Annealing win?](https://ai.googleblog.com/2015/12/when-can-quantum-annealing-win.html)
