@@ -4,8 +4,14 @@
 
 
 #### 2019
+
 * [How quantum teleportation works](https://quantum.country/teleportation).
 * [Quantum computing for the very curious](https://quantum.country/qcvc).
+
+#### 2018
+
+* [Quantum Computing in th NISQ era and Beyond, John Preskill](https://arxiv.org/pdf/1801.00862.pdf).
+
 
 #### 2017
 
