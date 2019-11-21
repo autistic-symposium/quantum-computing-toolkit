@@ -22,6 +22,7 @@
 ## Lectures & MOOCs
 
 * [Lecture on Quantum Computation by David Deutsch](http://www.quiprocone.org/Protected/DD_lectures.htm).
+* [Quantum Computing for the Determined by Michael Nielsen](http://michaelnielsen.org/blog/quantum-computing-for-the-determined/).
 
 #### Basics
 
