@@ -57,13 +57,6 @@
 
 * [s2n : an implementation of the TLS/SSL protocols (with post-quantum hybrid options)](https://github.com/awslabs/s2n).
 
-### Algorithms
-
-
-#### Quantum Monte Carlo
-
-* [CASINO](https://vallico.net/casinoqmc/).
-
 
 ----
 
