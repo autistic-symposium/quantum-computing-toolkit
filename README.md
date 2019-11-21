@@ -11,6 +11,7 @@
 
 * [The Potential Impact of Quantum Computers on Society](https://arxiv.org/abs/1712.05380).
 
+----
                                               
 ## Lectures & MOOCs
 
@@ -21,12 +22,16 @@
 * [MIT Linear Algebra Course](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/).
 * [Essence of linear algebra videos](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).
 
+
+----
+
 ## Videos
 
 #### 2019
 
 * [Google's Quantum supremacy explained](https://www.youtube.com/watch?v=gylmjTOUfCQ&feature=youtu.be).
 
+----
 
 ## Talks
 
@@ -52,6 +57,15 @@
 
 * [s2n : an implementation of the TLS/SSL protocols (with post-quantum hybrid options)](https://github.com/awslabs/s2n).
 
+
+----
+
+## Types of Quantum Computings
+
+
+### Quantum Annealing
+
+* [When can Quantum Annealing win?](https://ai.googleblog.com/2015/12/when-can-quantum-annealing-win.html).
 
 ------
 
