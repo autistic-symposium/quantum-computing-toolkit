@@ -14,8 +14,12 @@
                                               
 ## Lectures & MOOCs
 
-* [Essence of linear algebra videos](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).
 * [Lecture on Quantum Computation by David Deutsch](http://www.quiprocone.org/Protected/DD_lectures.htm).
+
+#### Basics
+
+* [MIT Linear Algebra Course](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/).
+* [Essence of linear algebra videos](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).
 
 ## Videos
 
