@@ -63,7 +63,7 @@
 ## Types of Quantum Computers
 
 
-### Quantum Annealing
+### Quantum Annealers 
 
 * [When can Quantum Annealing win?](https://ai.googleblog.com/2015/12/when-can-quantum-annealing-win.html)
 
