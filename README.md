@@ -1,4 +1,4 @@
-# Curated Resources and Documentation
+# Curated Resources on Quantum Computing
 
 ## Beautiful Articles
 
