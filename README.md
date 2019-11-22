@@ -8,7 +8,7 @@
 * [How quantum teleportation works, by Michael Nielsen](https://quantum.country/teleportation).
 * [Quantum computing for the very curious, bv Michael Nielsen](https://quantum.country/qcvc).
 * [Scott Aaaronson’s Supreme Quantum Supremacy FAQ!](https://www.scottaaronson.com/blog/?p=4317).
-* [Quantum supremacy using a programmable superconducting processor, Nature volume 574, pages505–510(2019)](https://www.nature.com/articles/s41586-019-1666-5).
+* [Quantum supremacy using a programmable superconducting processor, Nature](https://www.nature.com/articles/s41586-019-1666-5).
 * [Quantum supremacy: the gloves are off, by Scott Aaronson](https://www.scottaaronson.com/blog/?p=4372).
 * [Overview and Comparison of Gate Level Quantum Software Platforms](https://arxiv.org/pdf/1807.02500.pdf).
 * [Making Quantum Computing Open: Lessons from Open-Source Projects](https://arxiv.org/pdf/1902.00991.pdf).
