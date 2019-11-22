@@ -45,7 +45,7 @@
 
 #### 2018
 
-* [John Preskill on Quantum Computing - Ycomb](https://blog.ycombinator.com/john-preskill-on-quantum-computing/).
+* [John Preskill on Quantum Computing - Ycombinator](https://blog.ycombinator.com/john-preskill-on-quantum-computing/).
 
 
 ------
