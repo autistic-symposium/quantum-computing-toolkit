@@ -61,6 +61,7 @@
 #### 2018
 
 * [John Preskill on Quantum Computing - Ycombinator](https://blog.ycombinator.com/john-preskill-on-quantum-computing/).
+* [Simon Benjamin on Architectures for Quantum Computing - Ycombinator](https://www.youtube.com/watch?v=LHZKDTJJknE).
 
 
 ------
