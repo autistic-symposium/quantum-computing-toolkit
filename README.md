@@ -13,6 +13,7 @@
 * [Overview and Comparison of Gate Level Quantum Software Platforms](https://arxiv.org/pdf/1807.02500.pdf).
 * [Making Quantum Computing Open: Lessons from Open-Source Projects](https://arxiv.org/pdf/1902.00991.pdf).
 * [Open-source in Quantum Computing](https://arxiv.org/pdf/1812.09167.pdf).
+* [The History of Games for Quantum Computers, by James Wootton](https://medium.com/@decodoku/the-history-of-games-for-quantum-computers-a1de98859b5a).
 
 #### 2018
 
