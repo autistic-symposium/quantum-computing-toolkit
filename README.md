@@ -5,8 +5,9 @@
 
 #### 2019
 
-* [How quantum teleportation works](https://quantum.country/teleportation).
-* [Quantum computing for the very curious](https://quantum.country/qcvc).
+* [How quantum teleportation works, by Michael Nielsen](https://quantum.country/teleportation).
+* [Quantum computing for the very curious, bv Michael Nielsen](https://quantum.country/qcvc).
+* [Quantum supremacy: the gloves are off, by Scott Aaronson](https://www.scottaaronson.com/blog/?p=4372).
 
 #### 2018
 
