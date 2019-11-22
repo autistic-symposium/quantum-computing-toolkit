@@ -7,6 +7,7 @@
 
 * [How quantum teleportation works, by Michael Nielsen](https://quantum.country/teleportation).
 * [Quantum computing for the very curious, bv Michael Nielsen](https://quantum.country/qcvc).
+* [Quantum supremacy using a programmable superconducting processor, Nature volume 574, pages505–510(2019)](https://www.nature.com/articles/s41586-019-1666-5).
 * [Quantum supremacy: the gloves are off, by Scott Aaronson](https://www.scottaaronson.com/blog/?p=4372).
 
 #### 2018
