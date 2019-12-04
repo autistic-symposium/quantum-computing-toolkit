@@ -89,6 +89,8 @@
 
 ## Hardware
 
+* [This is what a 50-qubit quantum computer looks like](https://www.engadget.com/2018/01/09/this-is-what-a-50-qubit-quantum-computer-looks-like/).
+
 ### Quantum Annealers 
 
 * [D-Wave 2000Q System](https://www.dwavesys.com/d-wave-two-system).
@@ -97,6 +99,8 @@
 
 
 ## Post-Quantum & Crypto
+
+* [How Quantum Computers Break Encryption | Shor's Algorithm Explained](https://www.youtube.com/watch?v=lvTqbM5Dq4Q&t=160s).
 
 ### Algorithms
 
