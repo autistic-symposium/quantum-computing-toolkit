@@ -42,6 +42,7 @@
 * [Scott Aaaronson’s Supreme Quantum Supremacy FAQ!](https://www.scottaaronson.com/blog/?p=4317).
 * [Quantum supremacy using a programmable superconducting processor, Nature](https://www.nature.com/articles/s41586-019-1666-5).
 * [Quantum supremacy: the gloves are off, by Scott Aaronson](https://www.scottaaronson.com/blog/?p=4372).
+* [Unpacking the Quantum Supremacy Benchmark with Python](https://medium.com/@sohaib.alam/unpacking-the-quantum-supremacy-benchmark-with-python-67a46709d).
 
 ### Videos
 
