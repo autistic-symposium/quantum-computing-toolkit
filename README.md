@@ -27,4 +27,3 @@
 * **[the nisq era](the_nisq_era.md)**
 * **[post-quantum crypto](post_quantum_crypto.md)**
 * **[for blockchains](for_blockchains.md)**
-
