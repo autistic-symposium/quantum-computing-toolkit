@@ -18,12 +18,12 @@
 
 <br>
 
-* **[introduction to quantum computing](introduction_to_qc.md)**
-* **[quantum teleportation](quantum_teleportation.md)**
-* **[quantum supremacy](quantum_supremacy.md)**
-* **[quantum software](quantum_software.md)**
-* **[quantum hardware](quantum_hardware.md)**
-* **[quantum machine learning](quantum_machine_learning.md)**
-* **[the nisq era](the_nisq_era.md)**
-* **[post-quantum crypto](post_quantum_crypto.md)**
-* **[for blockchains](for_blockchains.md)**
+* **[introduction to quantum computing](docs/introduction_to_qc.md)**
+* **[quantum teleportation](docs/quantum_teleportation.md)**
+* **[quantum supremacy](docs/quantum_supremacy.md)**
+* **[quantum software](docs/quantum_software.md)**
+* **[quantum hardware](docs/quantum_hardware.md)**
+* **[quantum machine learning](docs/quantum_machine_learning.md)**
+* **[the nisq era](docs/the_nisq_era.md)**
+* **[post-quantum crypto](docs/post_quantum_crypto.md)**
+* **[for blockchains](docs/for_blockchains.md)**
