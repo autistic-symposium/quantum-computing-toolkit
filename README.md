@@ -9,6 +9,7 @@
   * **[DEF CON 23 talk on hacking quantum computing](https://www.youtube.com/watch?v=1Fp6ibfOQ4Y)**
   * **[graduate book on quantum information](http://www.astro.sunysb.edu/steinkirch/books/qi.pdf)**
   * **[quantum teleportation demo in cirq](https://www.youtube.com/watch?v=oGYMrXpQT-8)**
+  * **[curiee, a former 501(c)(3) for hackers to learn qc](http://web.archive.org/web/20200426052315/http://curiee.com/)**
 
 <br>
 
