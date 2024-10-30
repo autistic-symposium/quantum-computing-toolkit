@@ -31,4 +31,5 @@
 
 * **[cryptography in a post-quantum world](https://www.accenture.com/_acnmedia/PDF-87/Accenture-809668-Quantum-Cryptography-Whitepaper-v05.pdf#zoom=50)**
 * **[when will a quantum computer running shor's algorithm be used to factor one of the RSA numbers for the first time?](https://www.metaculus.com/questions/3684/when-will-a-quantum-computer-running-shors-algorithm-or-a-similar-one-be-used-to-factor-one-of-the-rsa-numbers-for-the-first-time/)**
+* **[minimum quantum assumptions for cryptography workshop, simons institute](https://www.youtube.com/playlist?list=PLgKuh-lKre12DNtplRAQIwbJf_46HSMfB)**
 
