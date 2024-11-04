@@ -19,6 +19,7 @@
 <br>
 
 * **[qiskit textbook](https://qiskit.org/textbook/preface.html)**
+* **[ibm's roadmap for building an open quantum software ecosystem](https://www.ibm.com/quantum/blog/quantum-development-roadmap)**
 
 <br>
 
