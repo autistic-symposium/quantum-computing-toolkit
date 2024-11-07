@@ -32,7 +32,6 @@
 * **[susskind's stanford introduction to quantum mechanics](http://theoreticalminimum.com/courses/quantum-mechanics/2012/winter/lecture-1)**
 * **[quantum mechanics explained](https://www.youtube.com/watch?v=Usu9xZfabPM)**
 
-
 <br>
 
 ---
@@ -44,3 +43,13 @@
 * **[how quantum teleportation works, by m. nielsen](https://quantum.country/teleportation)**
 * **[quantum scrambling and teleportation, by v. omole](https://vtomole.com/blog/2019/06/08/scrambling)**
 
+<br>
+
+----
+
+### topological quantum computing
+
+<br>
+
+* **[kitaev's review](https://arxiv.org/abs/0904.2771)** and **[his quintessential book](https://archive.org/details/classicalquantum0047kita)**
+* **["the radical map pf topological quantum computing" (intro video)](https://www.youtube.com/watch?v=ihZXl33t8So)**
