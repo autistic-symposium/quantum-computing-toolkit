@@ -63,21 +63,3 @@
 
 * **[how quantum teleportation works, by m. nielsen](https://quantum.country/teleportation)**
 * **[quantum scrambling and teleportation, by v. omole](https://vtomole.com/blog/2019/06/08/scrambling)**
-
-<br>
-
-----
-
-### topological quantum computers
-
-<br>
-
-* **[a. kitaev's review](https://arxiv.org/abs/0904.2771)** and **[his quintessential book](https://archive.org/details/classicalquantum0047kita)**
-* **[the radical map of topological quantum computing (intro video)](https://www.youtube.com/watch?v=ihZXl33t8So)**
-
-<br>
-
-
-<p align="center">
-<img src="https://github.com/user-attachments/assets/74687db3-1fa3-4bbe-b702-0aab07b8b4cf" width="65%" align="center"/>
- </p>
