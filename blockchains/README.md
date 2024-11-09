@@ -8,3 +8,12 @@
 * **[possible futures of the ethereum protocol, part 6: the slurge, by vub](https://vitalik.eth.limo/general/2024/10/29/futures6.html)**
 * **[asynchronous multi-party quantum computation, by simons institute](https://www.youtube.com/watch?v=XK-SO55DTaQ)**
 
+<br>
+
+----
+
+### groups
+
+<br>
+
+* **[quantum punks 🔥](https://quantumpunks.org/)**
