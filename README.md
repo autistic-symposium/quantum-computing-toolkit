@@ -19,13 +19,12 @@
 <br>
 
 * **[quantum computing](quantum_computing)**
+* **[post-quantum crypto](post_quantum_crypto)**
 * **[quantum supremacy](quantum_supremacy)**
 * **[quantum software](quantum_software)**
 * **[quantum hardware](quantum_hardware)**
 * **[quantum machine learning](quantum_machine_learning)**
-* **[the nisq era](the_nisq_era)**
-* **[post-quantum crypto](post_quantum_crypto)**
-* **[for blockchains](blockchains)**
+* **[post-quantum blockchains](blockchains)**
 
 <br>
 
