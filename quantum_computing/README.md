@@ -28,6 +28,8 @@
 * **[quantum computing, by j. hidary](https://github.com/JackHidary/quantumcomputingbook)**
 * **[quantum computing for the determined, by m. nielsen](http://michaelnielsen.org/blog/quantum-computing-for-the-determined/)**
 * **[crafting qubits: harnessing quantum mechanics for computation, by b. greene et al.](https://www.youtube.com/watch?v=_DoLnmkGpSI)**
+* **[the history of games for quantum computers, by j. wootton](https://medium.com/@decodoku/the-history-of-games-for-quantum-computers-a1de98859b5a)**
+* **[quantum computing: between hope and hope, by s. aaronson](https://scottaaronson.blog/?p=8329)**
 
 <br>
 
@@ -66,7 +68,7 @@
 
 ----
 
-### topological quantum computing
+### topological quantum computers
 
 <br>
 
