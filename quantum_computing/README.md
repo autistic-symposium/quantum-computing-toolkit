@@ -21,6 +21,7 @@
 * **[quantum computation and quantum information,by mike & ike](https://www.amazon.com/Quantum-Computation-Information-10th-Anniversary/dp/1107002176)**
 * **[quantum computing, by j. hidary](https://github.com/JackHidary/quantumcomputingbook)**
 * **[quantum computing for the determined, by m. nielsen](http://michaelnielsen.org/blog/quantum-computing-for-the-determined/)**
+* **[crafting qubits: harnessing quantum mechanics for computation, by brian greene et al.](https://www.youtube.com/watch?v=_DoLnmkGpSI)**
 
 <br>
 
