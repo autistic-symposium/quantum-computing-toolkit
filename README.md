@@ -1,36 +1,28 @@
-## quantum computing toolkit
+## the quantum computing toolkit
 
 <br>
 
-### tl; dr
+#### ⚛️ *quantum computing technology starts a new exciting era in humanity, combining quantum mechanics, security, artificial intelligence, computing technologies, and decentralized finance*
 
 <br>
-
-#### ⚛️ quantum computing technology starts a new exciting era in humanity, combining quantum mechanics, security, artificial intelligence, and computing technologies.
-#### ⚛️ once quantum computers become available, some of the main asymmetric algorithms used in cryptography will no longer be safe.
-#### ⚛️ the purpose of this repository is to keep a list of high-quality curated resources on the current state of quantum computing hardware and software, and its implications for post-quantum cryptography.
-
-<br>
-
-----
 
 ### chapters
 
 <br>
 
 * **[quantum computing](quantum_computing)**
-* **[post-quantum crypto](post_quantum_crypto)**
 * **[quantum supremacy](quantum_supremacy)**
 * **[quantum software](quantum_software)**
 * **[quantum hardware](quantum_hardware)**
 * **[quantum machine learning](quantum_machine_learning)**
-* **[post-quantum blockchains](blockchains)**
+* **[quantum cryptography](post_quantum_crypto)**
+* **[quantum blockchains](blockchains)**
 
 <br>
 
 ---
 
-### some of bt3gl's work from the last decade+
+### appendix: some of bt3gl's qc work from the last decade+
 
 <br>
 
