@@ -36,6 +36,9 @@
 
 ### topological quantum computers
 
+<br>
+
+#### *"a 2D quantum system with anyonic excitations can be considered as a quantum computer. unitary ransformations can be performed by moving the excitations around each other. measurements can be performed by joining excitations in pairs and observing the result of fusion. such computation is fault-tolerant by its physical nature".* (Kitaev, 2008)
 
 <br>
 
