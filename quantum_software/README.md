@@ -6,9 +6,11 @@
 
 <br>
 
-* **[overview and comparison of gate level quantum software platforms](https://arxiv.org/pdf/1807.02500.pdf)**
-* **[making quantum computing open: lessons from open-source projects](https://arxiv.org/pdf/1902.00991.pdf)**
-* **[open-source in quantum computing](https://arxiv.org/pdf/1812.09167.pdf)**
+* **[making quantum computing open: lessons from open-source projects, by shaydulin et al.](https://arxiv.org/pdf/1902.00991.pdf)**
+* **[overview and comparison of gate level quantum software platforms, by r. larose](https://arxiv.org/pdf/1807.02500.pdf)**
+* **[python implementation of classical quantum computing "protocols](https://github.com/quantumprotocolzoo/protocols)**
+* **[open-source in quantum computing, by fingerhuth et al.](https://arxiv.org/pdf/1812.09167.pdf)**
+
 
 <br>
 
