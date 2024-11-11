@@ -32,4 +32,16 @@
 
 <br>
 
-* **[quantum punks 🔥](https://quantumpunks.org/)**
+* **[quantum punks](https://quantumpunks.org/)**
+
+<br>
+
+----
+
+### possibilities for the age of aquarius
+
+<br>
+
+###### cryptomatas
+
+* **[programmable cryptography (part 1), by 0xparc](https://0xparc.org/blog/programmable-cryptography-1)**
