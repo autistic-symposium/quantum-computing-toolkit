@@ -15,6 +15,22 @@
 
 <br>
 
+----
+
+### quantum money
+
+<br>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/72449bd9-95c3-4f60-a0c9-f72d609bb6ad" width="70%" align="center"/>
+</p>
+
+<br>
+
+* **[one-shot signatures and applications to hybrid quantum/classical authentication, by r. amos et al](https://eprint.iacr.org/2020/107.pdf)**
+
+<br>
+
 ---
 
 ### quantum mpc
