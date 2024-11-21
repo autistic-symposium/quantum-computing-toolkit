@@ -49,3 +49,13 @@
 * **[prototyping post-quantum and hybrid key exchange and authentication in TLS and SSH](https://openquantumsafe.org/papers/NISTPQC-CroPaqSte19.pdf)**
 * **[uncloneable cryptography, by o. sattah](https://arxiv.org/pdf/2210.14265)** (review talking about quantum money and uncloneable forms of encryption)
 
+<br>
+
+----
+
+### applications
+
+<br>
+
+* **[apple implements pq3 on imessage](https://security.apple.com/blog/imessage-pq3/)**
+* **[signal implements x3dh (named pqxdh)](https://signal.org/blog/pqxdh/)**
