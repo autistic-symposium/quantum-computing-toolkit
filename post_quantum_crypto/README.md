@@ -1,6 +1,21 @@
-## post-quantum cryptography
+## quantum cryptography
 
 <br>
+
+### tl; dr
+
+* almost all public-key cryptography right now could be broken with just a few advances in quantum computing
+* the commonly-used public-key algorithms are based: factoring (rsa), finite field discrete logarithms (diffie-hellman), and elliptic curve discrete logarithms (ecdh and ecdsa) - the hidden subgroup problem, which quantum computers are good at solving
+* modern design of post-quantum algorithms:
+  - make constant-time implementations easy, reducing the risk of timing attacks
+  - reduce reliance on random number generators (rngs) by extending nonce values with deterministic functions (shake)
+  - implement random sampling techniques for non-uniform distributions, reducing the risk of attacks that rely on biased sampling
+  - many are fully deterministic in their input reducing nonce reuse issues
+  - many are designed to allow quick and easy generation of new keys, making it easier to provide forward secrecy
+
+<br>
+
+------
 
 ### shor's algorithm
 
