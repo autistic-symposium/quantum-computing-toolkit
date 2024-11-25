@@ -38,6 +38,7 @@
 
 * **[nist's pqc standardization process: second round candidate announcement](https://csrc.nist.gov/news/2019/pqc-standardization-process-2nd-round-candidates)**
 * **[minimum quantum assumptions for cryptography workshop, simons institute](https://www.youtube.com/playlist?list=PLgKuh-lKre12DNtplRAQIwbJf_46HSMfB)**
+* **[nist's transition to post-quantum cryptography standards, by d. moody et al. (nov/2024)](https://nvlpubs.nist.gov/nistpubs/ir/2024/NIST.IR.8547.ipd.pdf)**
 
 <br>
 
