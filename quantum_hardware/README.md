@@ -6,6 +6,16 @@
 
 <br>
 
+* **[google's willow chip with "exponential by number of qubits" decoherence correction (2024)](https://blog.google/technology/research/google-willow-quantum-chip/)**
+
+<br>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/ea8853ed-d6ab-4b58-818e-d76073658d56" width="30%" align="center" />
+</p>
+
+<br>
+
 * **[this is what a 50-qubit quantum computer looks like](https://www.engadget.com/2018/01/09/this-is-what-a-50-qubit-quantum-computer-looks-like/)**
 
 <br>
