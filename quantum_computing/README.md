@@ -63,3 +63,13 @@
 
 * **[how quantum teleportation works, by m. nielsen](https://quantum.country/teleportation)**
 * **[quantum scrambling and teleportation, by v. omole](https://vtomole.com/blog/2019/06/08/scrambling)**
+
+<br>
+
+---
+
+### decoherence and quantum error correction
+
+<br>
+
+* **[scheme for reducing decoherence in quantum computer memory, by p. shor (1995)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.52.R2493)** (canonical paper introducing decoherence and quantum error correction)
