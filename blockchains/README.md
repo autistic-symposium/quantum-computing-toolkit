@@ -61,3 +61,15 @@
 ###### cryptomatas
 
 * **[programmable cryptography (part 1), by 0xparc](https://0xparc.org/blog/programmable-cryptography-1)**
+
+<br>
+
+---
+
+### quantum computers vs. bitcoin
+
+<br>
+
+* **[@paoloardoino's take (2025)](https://x.com/paoloardoino/status/1888259298641191049)**
+* **[quantum resistance: taking proof of keys day to the next level, by j. loop (2022)](https://bitcoinmagazine.com/culture/proof-of-keys-day-and-quantum-computing)**
+* **[bitcoin is not quantum safe and how can we fix it, by vub (2013)](https://bitcoinmagazine.com/technical/bitcoin-is-not-quantum-safe-and-how-we-can-fix-1375242150)**
