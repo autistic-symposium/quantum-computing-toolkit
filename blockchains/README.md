@@ -8,6 +8,7 @@
 <br>
 
 * **[the road to post quantum ethereum is paved with aa, by asanso (2025)](https://ethresear.ch/t/the-road-to-post-quantum-ethereum-transaction-is-paved-with-account-abstraction-aa)**
+* **[how to build a quantum computer resistant blockchain with qrl, by m. strike (2025)](https://www.youtube.com/watch?v=QFuIU1S92E4)**
 * **[should crypto fear quantum computing, by ledger](https://www.ledger.com/blog/should-crypto-fear-quantum-computing)**
 * **[quantum proof keypairs with ECDSA + ZK, discussion by yush_g](https://ethresear.ch/t/quantum-proof-keypairs-with-ecdsa-zk/14901)**
 * **[how to hard-fork to save most users’ funds in a quantum emergency, by vub](https://ethresear.ch/t/how-to-hard-fork-to-save-most-users-funds-in-a-quantum-emergency/18901)**
