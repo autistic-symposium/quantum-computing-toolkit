@@ -52,6 +52,8 @@
 
 <br>
 
+* **[microsoft quantum computing 'breakthrough' faces fresh challenge
+](https://www.nature.com/articles/d41586-025-00683-2)**
 * **[developing a topological qubit, by microsoft](https://cloudblogs.microsoft.com/quantum/2018/09/06/developing-a-topological-qubit/)**
 * **[a. kitaev's review](https://arxiv.org/abs/0904.2771)** and **[his quintessential book](https://archive.org/details/classicalquantum0047kita)**
 * **[the radical map of topological quantum computing (intro video)](https://www.youtube.com/watch?v=ihZXl33t8So)**
