@@ -39,7 +39,7 @@
 ##### publications
 * **[graduate book on quantum information](http://www.astro.sunysb.edu/steinkirch/books/qi.pdf)**
 * **[graduate book on quantum field theory](https://www.astro.sunysb.edu/steinkirch/books/qft.pdf)**
-* **[whitepaper on "the study of the potts model, tutte and chromatic polynomials, and the connections with computation complexity and quantum computing"](https://www.astro.sunysb.edu/steinkirch/reviews/potts_model_paper.pdf)**
+* **[on the study of the potts model, tutte and chromatic polynomials, and the connections with computation complexity and quantum computing](https://www.semanticscholar.org/paper/On-the-study-of-the-Potts-model%2C-Tutte-and-and-the-Steinkirch/cceb1ca9bc3bd9b397c50b844e061e029f44efe4)**
 * **[handwritten notes on topological quantum field theory (and the chern-simons theory)](https://www.astro.sunysb.edu/steinkirch/books/tqfts.pdf)**
   
 ##### open-source software
